@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "http-server",
+    "e2e": "playwright test --headed"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.10",
+    "http-server": "^14.1.1",
+    "playwright": "^1.39.0"
+  }
+}
