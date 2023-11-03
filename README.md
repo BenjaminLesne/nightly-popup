@@ -13,7 +13,5 @@ If you close the translation popup from firefox Nightly, the test succeed.
 
 ### video
 
-![bug](./bug.mp4)
-
-
+https://github.com/BenjaminLesne/nightly-popup/assets/73464907/12ee09bd-1a47-48d8-aee2-2d1af7f90fbf
 
